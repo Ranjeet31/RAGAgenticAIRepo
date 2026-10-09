@@ -1,0 +1,51 @@
+C:\Users\Lenovo\Gitrepo\2ndminiprojects\Week 9_Graded Mini Project Documents\Week 9_Graded Mini Project Documents\AI-RAG_MP2_MiniRAG\learner>py mp2_rag_starter.py ask
+Mini-RAG over the Sherlock Holmes corpus.
+Type your question. Empty line or Ctrl-C to exit.
+
+? who stole at the cosmopolitan
+
+The blue carbuncle was stolen by James Ryder, an attendant at the Cosmopolitan hotel. He was implicated in the theft of the Countess of Morcar's gem, which was taken from her jewel case while she was staying there. (Source: The Adventure of the Blue Carbuncle — Tracing Henry Baker)
+
+  Sources:
+    - The Adventure of the Blue Carbuncle — Tracing Henry Baker
+    - The Adventure of the Blue Carbuncle — The Theft at the Cosmopolitan
+    - A Scandal in Bohemia — Holmes Disguises Himself
+  Latency: 4598.65ms
+
+? whom sherlock holmes marry
+
+Sherlock Holmes did not marry anyone; instead, he was involved in a case with Irene Adler, who married another man. In "A Scandal in Bohemia," it is mentioned that Irene Adler married a man that very afternoon at St Monica's, but Holmes himself did not marry. (Source: A Scandal in Bohemia — The Smoke and Fire Plan)
+
+  Sources:
+    - A Scandal in Bohemia — The Smoke and Fire Plan
+    - A Scandal in Bohemia — Irene Adler Wins
+    - A Scandal in Bohemia — The Cipher Note
+  Latency: 4367.55ms
+
+? who is hydraulic engineer
+
+The hydraulic engineer is Victor Hatherley. He is described as a twenty-six-year-old who had set up his own consulting practice and had been experiencing a quiet business year. (Source: The Adventure of the Engineer's Thumb — Victor Hatherley, Hydraulic Engineer)
+
+  Sources:
+    - The Adventure of the Engineer's Thumb — Victor Hatherley, Hydraulic Engineer
+    - The Adventure of the Engineer's Thumb — Victor Hatherley, Hydraulic Engineer
+    - The Adventure of the Engineer's Thumb — The Mysterious Engagement
+  Latency: 4424.23ms
+
+? How does Sherlock Holmes use physical clues and careful observation to uncover hidden criminal schemes in The Red-Headed League, A Scandal in Bohemia, and The Adventure of the Speckled Band? Compare the specific clues he discovers in each case, explain how he interprets them, and describe how his deductions lead to the outcome of each investigation.
+
+In "The Red-Headed League," Sherlock Holmes uses several physical clues to uncover the criminal scheme behind the league. Mr. Jabez Wilson, a pawnbroker, mentions the frequent disappearances of Spaulding, who works for him. Holmes interprets Spaulding's behavior and the dirty trousers he wears as evidence of his involvement in digging a tunnel to the bank. The thumping of the pavement further indicates the direction of the tunnel, leading Holmes to deduce that the purpose of the league was to facilitate a robbery. This careful observation and interpretation of physical clues ultimately lead to the capture of the criminals (The Red-Headed League — The Capture).
+
+In "A Scandal in Bohemia," while no specific excerpts were provided, Holmes is known for his keen observation and deduction skills, particularly in how he interprets the actions and behaviors of individuals, which often leads to uncovering hidden motives and schemes.
+
+In "The Adventure of the Speckled Band," Holmes observes Helen Stoner's appearance, noting the mud on her cloak and the marks on her shoes, which indicate her recent travel and the urgency of her situation. These observations suggest that she is in distress and that her story may involve a more immediate threat. Holmes's attention to these details helps him understand the gravity of her predicament and leads him to investigate further into the mysterious circumstances surrounding her sister's death (The Adventure of the Speckled Band — Stoke Moran and Doctor Roylott).
+
+In summary, Holmes's use of physical clues and careful observation in these stories allows him to piece together the larger criminal schemes at play, leading to successful resolutions in each case.
+
+  Sources:
+    - The Red-Headed League — The Vacancy in the Red-Headed League
+    - The Adventure of the Speckled Band — Stoke Moran and Doctor Roylott
+    - The Red-Headed League — The Capture
+  Latency: 7718.45ms
+
+?
